@@ -1,0 +1,30 @@
+{
+  "name": "ftl-webpack-opt",
+  "version": "0.2.1",
+  "description": "ftl webpack options",
+  "keywords": [
+    "ftl-server",
+    "weback"
+  ],
+  "bugs": "http://github.com/szmtcjm/ftl-webpack-opt/issues",
+  "license": "MIT",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/szmtcjm/ftl-webpack-opt"
+  },
+  "scripts": {},
+  "author": {
+    "name": "Chen jiangming",
+    "email": "szmtcjm@126.com"
+  },
+  "dependencies": {
+    "autoprefixer-core": "^5.2.1",
+    "browser-resolve": "^1.9.0",
+    "cssnano": "^2.6.1",
+    "node-libs-browser": "^0.5.2",
+    "postcss-url": "^4.0.1",
+    "semver": "^5.0.1",
+    "webpack": "^1.10.1"
+  }
+}
