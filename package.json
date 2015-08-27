@@ -1,17 +1,18 @@
 {
-  "name": "ftl-webpack-opt",
+  "name": "build-opt",
   "version": "1.0.0",
-  "description": "ftl webpack options",
+  "description": "ftl-server build options",
   "keywords": [
     "ftl-server",
-    "weback"
+    "weback",
+    "postcss"
   ],
-  "bugs": "http://github.com/szmtcjm/ftl-webpack-opt/issues",
+  "bugs": "http://github.com/szmtcjm/build-opt/issues",
   "license": "MIT",
   "main": "./index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/szmtcjm/ftl-webpack-opt"
+    "url": "https://github.com/szmtcjm/build-opt"
   },
   "scripts": {},
   "author": {
